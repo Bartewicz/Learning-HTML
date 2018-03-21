@@ -1,5 +1,5 @@
 # Learning-HTML
-The second repository used to learn the basics of HTML and practise Git.
+The repository used to learn the basics of HTML and practise Git.
 
 The video tutorial followed in this course is available for everyone on the YouTube channel [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg "Just click"), starting [here](https://www.youtube.com/watch?v=Y1BlT4_c_SU&list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc "01 - HTML Introduction").
 
