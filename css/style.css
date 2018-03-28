@@ -1,0 +1,21 @@
+#container {
+    margin: auto;
+    width: 1200px;
+}
+
+header {
+    height: 450px;
+    overflow: hidden;
+}
+
+footer {
+    border: #777 1px dashed;
+    font-weight: 700;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.logo {
+    margin-top: -125px;
+    width: 100%;
+}
